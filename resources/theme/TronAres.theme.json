@@ -1,0 +1,123 @@
+{
+  "name": "Tron Ares",
+  "author": "apaunov",
+  "dark": true,
+  "editorScheme": "/Tron_Ares.xml",
+  "colors": {
+    "background": "#030507",
+    "disabledBackground": "#070D13",
+    "inactiveTabs": "#081019",
+    "activeTabs": "#0B1520",
+    "defaultButton": "#101B27",
+    "segmentedSelected": "#1A2636",
+    "segmentedSelectedFocused": "#223246",
+    "segmentedSelectedBorder": "#6DD8FF",
+    "accent": "#FF4A4A",
+    "primaryText": "#F2F7FA",
+    "secondaryText": "#7D93A3",
+    "selectionInactive": "#10293B"
+  },
+  "ui": {
+    "*": {
+      "background": "background",
+      "foreground": "primaryText",
+      "inactiveBackground": "inactiveTabs",
+      "selectionBackground": "activeTabs",
+      "selectionForeground": "primaryText",
+      "selectionInactiveBackground": "selectionInactive",
+      "selectionInactiveForeground": "primaryText",
+      "disabledBackground": "disabledBackground",
+      "disabledForeground": "secondaryText"
+    },
+    "TabbedPane": {
+      "foreground": "primaryText",
+      "underlineColor": "accent",
+      "hoverColor": "defaultButton"
+    },
+    "DefaultTabs": {
+      "underlinedTabBackground": "activeTabs",
+      "underlineColor": "accent",
+      "hoverBackground": "defaultButton"
+    },
+    "SplitPane": {
+      "background": "background"
+    },
+    "FileColor": {
+      "Yellow": "inactiveTabs"
+    },
+    "ComboBox": {
+      "background": "background",
+      "foreground": "primaryText",
+      "selectionBackground": "defaultButton",
+      "selectionForeground": "primaryText",
+      "nonEditableBackground": "defaultButton",
+      "ArrowButton.nonEditableBackground": "defaultButton"
+    },
+    "ActionButton": {
+      "pressedBackground": "defaultButton",
+      "hoverBackground": "selectionInactive"
+    },
+    "SegmentedButton": {
+      "selectedButtonColor": "segmentedSelected",
+      "focusedSelectedButtonColor": "segmentedSelectedFocused",
+      "selectedStartBorderColor": "segmentedSelectedBorder",
+      "selectedEndBorderColor": "segmentedSelectedBorder"
+    },
+    "Button": {
+      "foreground": "primaryText",
+      "startBackground": "defaultButton",
+      "endBackground": "defaultButton",
+      "default": {
+        "foreground": "#FFF8F6",
+        "startBackground": "accent",
+        "endBackground": "accent"
+      }
+    },
+    "Popup": {
+      "paintBorder": true,
+      "background": "background",
+      "borderColor": "selectionInactive",
+      "Header.activeBackground": "defaultButton",
+      "Header.inactiveBackground": "selectionInactive",
+      "inactiveBorderColor": "selectionInactive"
+    },
+    "CompletionPopup": {
+      "foreground": "primaryText",
+      "selectionBackground": "defaultButton",
+      "selectionInactiveBackground": "defaultButton",
+      "Advertiser.foreground": "accent"
+    },
+    "ProgressBar": {
+      "trackColor": "defaultButton",
+      "progressColor": "accent",
+      "indeterminateStartColor": "accent",
+      "indeterminateEndColor": "defaultButton"
+    },
+    "Plugins": {
+      "hoverBackground": "selectionInactive",
+      "lightSelectionBackground": "defaultButton"
+    },
+    "Label": {
+      "foreground": "primaryText",
+      "disabledForeground": "secondaryText"
+    },
+    "Panel": {
+      "background": "background"
+    },
+    "ToolTip": {
+      "background": "defaultButton",
+      "foreground": "primaryText"
+    },
+    "Tree": {
+      "foreground": "primaryText",
+      "selectionForeground": "primaryText",
+      "rowHeight": 24
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "#101B27",
+      "Checkbox.Background.Disabled.Dark": "#070D13"
+    }
+  }
+}

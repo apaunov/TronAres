@@ -1,0 +1,29 @@
+<idea-plugin>
+    <id>com.github.apaunov.tronares</id>
+    <version>1.0.0</version>
+
+    <name>Tron Ares</name>
+    <category>UI</category>
+
+    <vendor url="https://github.com/andreypaunov">apaunov</vendor>
+
+    <idea-version since-build="251"/>
+
+    <description><![CDATA[
+        A cinematic JetBrains theme inspired by <em>Tron: Ares</em>.<br>
+        Deep near-black surfaces, electric cyan highlights, and molten orange accents
+        give the IDE a sharp sci-fi control-room feel without sacrificing readability.
+        ]]></description>
+
+    <change-notes><![CDATA[
+        Initial release of the Tron Ares theme.
+    ]]></change-notes>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider
+                id="ce5e3277-e3bb-4fcd-b0a3-7705142c2199"
+                path="/theme/TronAres.theme.json"/>
+    </extensions>
+</idea-plugin>
