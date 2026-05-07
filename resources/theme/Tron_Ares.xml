@@ -1,7 +1,7 @@
 <scheme name="Tron Ares" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2026.1.0.0</property>
+    <property name="ideVersion">2026.1.1.0.0</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="FF4A4A" />
@@ -227,7 +227,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ff4a4a" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="DEFAULT_MARKUP_ATTRIBUTE">
