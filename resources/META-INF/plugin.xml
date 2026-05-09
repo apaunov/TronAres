@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.apaunov.tronares</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>Tron: Ares</name>
     <category>UI</category>
