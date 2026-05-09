@@ -9,16 +9,18 @@
 
     <idea-version since-build="251"/>
 
-    <description><![CDATA[
-        A cinematic JetBrains theme inspired by <em>Tron: Ares</em>.<br>
-        Deep near-black surfaces, electric cyan highlights, and molten orange accents
-        give the IDE a sharp sci-fi control-room feel without sacrificing readability.
-    ]]>
+    <description>
+        <![CDATA[
+            A cinematic JetBrains theme inspired by <em>Tron: Ares</em>.<br>
+            Deep near-black surfaces, electric cyan highlights, and molten orange accents
+            give the IDE a sharp sci-fi control-room feel without sacrificing readability.
+        ]]>
     </description>
 
-    <change-notes><![CDATA[
-        Initial release of the Tron: Ares theme.
-    ]]>
+    <change-notes>
+        <![CDATA[
+            Initial release of the Tron: Ares theme.
+        ]]>
     </change-notes>
 
     <depends>com.intellij.modules.platform</depends>
