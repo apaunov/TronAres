@@ -2,7 +2,7 @@
     <id>com.github.apaunov.tronares</id>
     <version>1.0.0</version>
 
-    <name>Tron Ares</name>
+    <name>Tron: Ares</name>
     <category>UI</category>
 
     <vendor url="https://github.com/andreypaunov">apaunov</vendor>
@@ -16,7 +16,7 @@
         ]]></description>
 
     <change-notes><![CDATA[
-        Initial release of the Tron Ares theme.
+        Initial release of the Tron: Ares theme.
     ]]></change-notes>
 
     <depends>com.intellij.modules.platform</depends>

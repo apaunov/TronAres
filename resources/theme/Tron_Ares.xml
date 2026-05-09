@@ -194,6 +194,12 @@
         <option name="FOREGROUND" value="ff4a4a" />
       </value>
     </option>
+    <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
+      <value>
+        <option name="EFFECT_COLOR" value="41a5ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ff4a4a" />
@@ -267,7 +273,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="d29898" />
+        <option name="FOREGROUND" value="7cffff" />
       </value>
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
