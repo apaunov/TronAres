@@ -13,6 +13,7 @@
     "segmentedSelectedFocused": "#223246",
     "segmentedSelectedBorder": "#6DD8FF",
     "accent": "#FF0000",
+    "accentText": "#100303",
     "primaryText": "#F2F7FA",
     "secondaryText": "#7D93A3",
     "selectionInactive": "#10293B"
@@ -76,7 +77,7 @@
       "startBackground": "defaultButton",
       "endBackground": "defaultButton",
       "default": {
-        "foreground": "#FFF8F6",
+        "foreground": "accentText",
         "startBackground": "accent",
         "endBackground": "accent"
       }
